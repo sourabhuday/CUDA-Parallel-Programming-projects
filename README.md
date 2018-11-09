@@ -1,1 +1,1 @@
-# CUDA-Parallel-Programming-
+Parallel-Programming-
